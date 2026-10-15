@@ -1,0 +1,14 @@
+# build output
+plugin/build/
+cli/bin/
+cli/obj/
+bin/
+
+# local builds of the submodules (only their headers are needed)
+extern/build-common/
+extern/build-f4se/
+extern/prefix/
+
+# editors
+.vs/
+*.user

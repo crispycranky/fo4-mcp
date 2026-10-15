@@ -1,0 +1,6 @@
+[submodule "extern/f4se"]
+	path = extern/f4se
+	url = https://github.com/ianpatt/f4se
+[submodule "extern/common"]
+	path = extern/common
+	url = https://github.com/ianpatt/common
